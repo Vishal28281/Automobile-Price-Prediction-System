@@ -76,3 +76,7 @@ Libraries Used:
 2. Experiment with advanced models like XGBoost or CatBoost
 
 3. Add a database connection for real-time data updates
+
+🧾 License
+
+This project is open-source and available under the MIT License.
